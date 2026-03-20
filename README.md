@@ -17,6 +17,15 @@ This is a Java console application that uses Object-Oriented Programming (OOP) c
 - ArrayList
 - IntelliJ IDEA
 
+## Sample Output
+--- Student Management System ---
+1. Add Student
+2. View Students
+3. Delete Student
+4. Search Student
+5. Update Student
+6. Exit
+
 ## ▶️ How to Run
 1. Open the project in IntelliJ IDEA
 2. Run the `Main.java` file
